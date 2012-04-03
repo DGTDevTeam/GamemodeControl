@@ -1,0 +1,14 @@
+name: GamemodeControl
+version: v0.1
+main: me.JamieSinn.Bukkit.GamemodeControl
+description:
+commands:
+    c:
+        description:
+        usage: /c
+    s:
+        description:
+        usage: /g
+    gamemodehelp:
+        description:
+        usage: /gamemodehelp
